@@ -2,4 +2,5 @@ nikon_f_mount.SLDPRT
 f卡口装配测试.SLDASM
 .gitignore
 *.print
+*.STL
 *.cmb.gz
